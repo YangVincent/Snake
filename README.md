@@ -7,3 +7,5 @@ This is the classic game Snake!
 3. ```javac SnakeFrame.java```
 4. ```java SnakeFrame```
 5. Press ```<space>```
+
+![Snake](snake.png)
